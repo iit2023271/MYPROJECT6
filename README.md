@@ -3,6 +3,10 @@
 Measures your internet download speed by timing how long a test image takes to download, then shows the result in bps, kbps, and Mbps.
 
 
+## Screenshot
+
+![Demo](screenshots/demo.png)
+
 ## Features
 
 - Downloads a ~5.6 MB test image and times it
